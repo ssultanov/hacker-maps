@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<testsuite name="Chrome 83.0.4103 (Mac OS X 10.14.0)" package="unit" timestamp="2020-06-16T17:19:33" id="0" hostname="LNYLSSULTANOV.home" tests="5" errors="1" failures="5" time="0.326">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"/>
+  </properties>
+  <testcase name="AppComponent Should be in correct state after a series of actions" time="0.098" classname=".AppComponent">
+    <failure type="">Error: Expected 'PIER 39, The Embarcadero, San Francisco, CA, USA' to equal 'Lombard St, San Francisco, CA, USA'.
+    at &lt;Jasmine&gt;
+    at http://localhost:9876/_karma_webpack_/src/app/app.component.spec.ts:130:78
+    at &lt;Jasmine&gt;
+    at fulfilled (http://localhost:9876/_karma_webpack_/node_modules/tslib/tslib.es6.js:71:42)
+</failure>
+    <failure type="">Error: Expected 'Lombard St, San Francisco, CA, USA' to equal 'Golden Gate Bridge, San Francisco, CA, USA'.
+    at &lt;Jasmine&gt;
+    at http://localhost:9876/_karma_webpack_/src/app/app.component.spec.ts:135:78
+    at &lt;Jasmine&gt;
+    at fulfilled (http://localhost:9876/_karma_webpack_/node_modules/tslib/tslib.es6.js:71:42)
+</failure>
+    <failure type="">Error: Expected 'PIER 39, The Embarcadero, San Francisco, CA, USA' to equal 'Alcatraz Island, San Francisco, CA, USA'.
+    at &lt;Jasmine&gt;
+    at http://localhost:9876/_karma_webpack_/src/app/app.component.spec.ts:138:78
+    at &lt;Jasmine&gt;
+    at fulfilled (http://localhost:9876/_karma_webpack_/node_modules/tslib/tslib.es6.js:71:42)
+</failure>
+    <failure type="">Error: Expected 'PIER 39, The Embarcadero, San Francisco, CA, USA' to equal 'Fisherman's Wharf, San Francisco, CA, USA'.
+    at &lt;Jasmine&gt;
+    at http://localhost:9876/_karma_webpack_/src/app/app.component.spec.ts:139:78
+    at &lt;Jasmine&gt;
+    at fulfilled (http://localhost:9876/_karma_webpack_/node_modules/tslib/tslib.es6.js:71:42)
+</failure>
+    <failure type="">Error: Expected 'Lombard St, San Francisco, CA, USA' to equal 'Alcatraz Island, San Francisco, CA, USA'.
+    at &lt;Jasmine&gt;
+    at http://localhost:9876/_karma_webpack_/src/app/app.component.spec.ts:143:78
+    at &lt;Jasmine&gt;
+    at fulfilled (http://localhost:9876/_karma_webpack_/node_modules/tslib/tslib.es6.js:71:42)
+</failure>
+    <failure type="">Error: Expected 'PIER 39, The Embarcadero, San Francisco, CA, USA' to equal 'Golden Gate Bridge, San Francisco, CA, USA'.
+    at &lt;Jasmine&gt;
+    at http://localhost:9876/_karma_webpack_/src/app/app.component.spec.ts:146:78
+    at &lt;Jasmine&gt;
+    at fulfilled (http://localhost:9876/_karma_webpack_/node_modules/tslib/tslib.es6.js:71:42)
+</failure>
+    <failure type="">Error: Expected 'PIER 39, The Embarcadero, San Francisco, CA, USA' to equal 'Alcatraz Island, San Francisco, CA, USA'.
+    at &lt;Jasmine&gt;
+    at http://localhost:9876/_karma_webpack_/src/app/app.component.spec.ts:147:78
+    at &lt;Jasmine&gt;
+    at fulfilled (http://localhost:9876/_karma_webpack_/node_modules/tslib/tslib.es6.js:71:42)
+</failure>
+  </testcase>
+  <testcase name="AppComponent Should move the location up on clicking the up button" time="0.037" classname=".AppComponent">
+    <failure type="">Error: Expected 'Lombard St, San Francisco, CA, USA' to equal 'Alcatraz Island, San Francisco, CA, USA'.
+    at &lt;Jasmine&gt;
+    at http://localhost:9876/_karma_webpack_/src/app/app.component.spec.ts:109:78
+    at &lt;Jasmine&gt;
+    at http://localhost:9876/_karma_webpack_/node_modules/tslib/tslib.es6.js:74:1
+</failure>
+    <failure type="">Error: Expected 'PIER 39, The Embarcadero, San Francisco, CA, USA' to equal 'Alcatraz Island, San Francisco, CA, USA'.
+    at &lt;Jasmine&gt;
+    at http://localhost:9876/_karma_webpack_/src/app/app.component.spec.ts:111:78
+    at &lt;Jasmine&gt;
+    at fulfilled (http://localhost:9876/_karma_webpack_/node_modules/tslib/tslib.es6.js:71:42)
+</failure>
+    <failure type="">Error: Expected 'PIER 39, The Embarcadero, San Francisco, CA, USA' to equal 'Fisherman's Wharf, San Francisco, CA, USA'.
+    at &lt;Jasmine&gt;
+    at http://localhost:9876/_karma_webpack_/src/app/app.component.spec.ts:112:78
+    at &lt;Jasmine&gt;
+    at fulfilled (http://localhost:9876/_karma_webpack_/node_modules/tslib/tslib.es6.js:71:42)
+</failure>
+    <failure type="">Error: Expected 'Lombard St, San Francisco, CA, USA' to equal 'Alcatraz Island, San Francisco, CA, USA'.
+    at &lt;Jasmine&gt;
+    at http://localhost:9876/_karma_webpack_/src/app/app.component.spec.ts:115:78
+    at &lt;Jasmine&gt;
+    at fulfilled (http://localhost:9876/_karma_webpack_/node_modules/tslib/tslib.es6.js:71:42)
+</failure>
+    <failure type="">Error: Expected 'Lombard St, San Francisco, CA, USA' to equal 'Golden Gate Bridge, San Francisco, CA, USA'.
+    at &lt;Jasmine&gt;
+    at http://localhost:9876/_karma_webpack_/src/app/app.component.spec.ts:116:78
+    at &lt;Jasmine&gt;
+    at fulfilled (http://localhost:9876/_karma_webpack_/node_modules/tslib/tslib.es6.js:71:42)
+</failure>
+    <failure type="">Error: Expected 'PIER 39, The Embarcadero, San Francisco, CA, USA' to equal 'Alcatraz Island, San Francisco, CA, USA'.
+    at &lt;Jasmine&gt;
+    at http://localhost:9876/_karma_webpack_/src/app/app.component.spec.ts:119:78
+    at &lt;Jasmine&gt;
+    at fulfilled (http://localhost:9876/_karma_webpack_/node_modules/tslib/tslib.es6.js:71:42)
+</failure>
+    <failure type="">Error: Expected 'Lombard St, San Francisco, CA, USA' to equal 'Alcatraz Island, San Francisco, CA, USA'.
+    at &lt;Jasmine&gt;
+    at http://localhost:9876/_karma_webpack_/src/app/app.component.spec.ts:123:78
+    at &lt;Jasmine&gt;
+    at fulfilled (http://localhost:9876/_karma_webpack_/node_modules/tslib/tslib.es6.js:71:42)
+</failure>
+  </testcase>
+  <testcase name="AppComponent Should move the location down on clicking the down button" time="0.03" classname=".AppComponent">
+    <failure type="">Error: Expected 'PIER 39, The Embarcadero, San Francisco, CA, USA' to equal 'Golden Gate Bridge, San Francisco, CA, USA'.
+    at &lt;Jasmine&gt;
+    at http://localhost:9876/_karma_webpack_/src/app/app.component.spec.ts:97:78
+    at &lt;Jasmine&gt;
+    at fulfilled (http://localhost:9876/_karma_webpack_/node_modules/tslib/tslib.es6.js:71:42)
+</failure>
+    <failure type="">Error: Expected 'Lombard St, San Francisco, CA, USA' to equal 'PIER 39, The Embarcadero, San Francisco, CA, USA'.
+    at &lt;Jasmine&gt;
+    at http://localhost:9876/_karma_webpack_/src/app/app.component.spec.ts:100:78
+    at &lt;Jasmine&gt;
+    at fulfilled (http://localhost:9876/_karma_webpack_/node_modules/tslib/tslib.es6.js:71:42)
+</failure>
+    <failure type="">Error: Expected 'Lombard St, San Francisco, CA, USA' to equal 'Fisherman's Wharf, San Francisco, CA, USA'.
+    at &lt;Jasmine&gt;
+    at http://localhost:9876/_karma_webpack_/src/app/app.component.spec.ts:101:78
+    at &lt;Jasmine&gt;
+    at fulfilled (http://localhost:9876/_karma_webpack_/node_modules/tslib/tslib.es6.js:71:42)
+</failure>
+    <failure type="">Error: Expected 'PIER 39, The Embarcadero, San Francisco, CA, USA' to equal 'Alcatraz Island, San Francisco, CA, USA'.
+    at &lt;Jasmine&gt;
+    at http://localhost:9876/_karma_webpack_/src/app/app.component.spec.ts:105:78
+    at &lt;Jasmine&gt;
+    at fulfilled (http://localhost:9876/_karma_webpack_/node_modules/tslib/tslib.es6.js:71:42)
+</failure>
+  </testcase>
+  <testcase name="AppComponent Should have correct buttons for each location" time="0.141" classname=".AppComponent">
+    <failure type="">Error: Expected &lt;button _ngcontent-a-c12 data-test-id="up-button" class="icon-only small mx-0"&gt;...&lt;/button&gt; to be falsy.
+    at &lt;Jasmine&gt;
+    at UserContext.&lt;anonymous&gt; (http://localhost:9876/_karma_webpack_/src/app/app.component.spec.ts:78:62)
+    at ZoneDelegate.invoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-evergreen.js:364:1)
+    at ProxyZoneSpec.push../node_modules/zone.js/dist/zone-testing.js.ProxyZoneSpec.onInvoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-testing.js:292:1)
+</failure>
+    <failure type="">Error: Expected &lt;button _ngcontent-a-c12 data-test-id="down-button" class="icon-only small mx-0"&gt;...&lt;/button&gt; to be falsy.
+    at &lt;Jasmine&gt;
+    at UserContext.&lt;anonymous&gt; (http://localhost:9876/_karma_webpack_/src/app/app.component.spec.ts:91:64)
+    at ZoneDelegate.invoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-evergreen.js:364:1)
+    at ProxyZoneSpec.push../node_modules/zone.js/dist/zone-testing.js.ProxyZoneSpec.onInvoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-testing.js:292:1)
+</failure>
+  </testcase>
+  <testcase name="AppComponent Should render all the locations in the list" time="0.02" classname=".AppComponent">
+    <failure type="">Error: Expected 'Lombard St, San Francisco, CA, USA' to equal 'PIER 39, The Embarcadero, San Francisco, CA, USA'.
+    at &lt;Jasmine&gt;
+    at UserContext.&lt;anonymous&gt; (http://localhost:9876/_karma_webpack_/src/app/app.component.spec.ts:71:78)
+    at ZoneDelegate.invoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-evergreen.js:364:1)
+    at ProxyZoneSpec.push../node_modules/zone.js/dist/zone-testing.js.ProxyZoneSpec.onInvoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-testing.js:292:1)
+</failure>
+    <failure type="">Error: Expected 'Lombard St, San Francisco, CA, USA' to equal 'Golden Gate Bridge, San Francisco, CA, USA'.
+    at &lt;Jasmine&gt;
+    at UserContext.&lt;anonymous&gt; (http://localhost:9876/_karma_webpack_/src/app/app.component.spec.ts:72:78)
+    at ZoneDelegate.invoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-evergreen.js:364:1)
+    at ProxyZoneSpec.push../node_modules/zone.js/dist/zone-testing.js.ProxyZoneSpec.onInvoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-testing.js:292:1)
+</failure>
+    <failure type="">Error: Expected 'Lombard St, San Francisco, CA, USA' to equal 'Fisherman's Wharf, San Francisco, CA, USA'.
+    at &lt;Jasmine&gt;
+    at UserContext.&lt;anonymous&gt; (http://localhost:9876/_karma_webpack_/src/app/app.component.spec.ts:73:78)
+    at ZoneDelegate.invoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-evergreen.js:364:1)
+    at ProxyZoneSpec.push../node_modules/zone.js/dist/zone-testing.js.ProxyZoneSpec.onInvoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-testing.js:292:1)
+</failure>
+    <failure type="">Error: Expected 'Lombard St, San Francisco, CA, USA' to equal 'Alcatraz Island, San Francisco, CA, USA'.
+    at &lt;Jasmine&gt;
+    at UserContext.&lt;anonymous&gt; (http://localhost:9876/_karma_webpack_/src/app/app.component.spec.ts:74:78)
+    at ZoneDelegate.invoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-evergreen.js:364:1)
+    at ProxyZoneSpec.push../node_modules/zone.js/dist/zone-testing.js.ProxyZoneSpec.onInvoke (http://localhost:9876/_karma_webpack_/node_modules/zone.js/dist/zone-testing.js:292:1)
+</failure>
+  </testcase>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
